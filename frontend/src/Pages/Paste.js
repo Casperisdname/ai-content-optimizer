@@ -51,7 +51,7 @@ function Paste() {
   };
 
   return (
-    <div className="paste">
+    <div className="paste" id="paste">
       <h1>Paste your Content</h1>
       <textarea
         placeholder="Paste your caption, tweet, blog content here"
