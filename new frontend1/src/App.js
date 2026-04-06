@@ -11,7 +11,6 @@ function App() {
     <div className="App1">
       <div className="App">
         <Navbar />
-<<<<<<< HEAD
 
         <section id="hero">
           <HeroPage />
